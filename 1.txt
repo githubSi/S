@@ -1,3 +1,11 @@
-warp://auto?ifp=5-10#IR&&detour=warp://auto?ifp=5-10#DE
-warp://auto?ifp=10-20#IR&&detour=warp://auto?ifp=10-20#DE
-warp://auto?ifp=20-40#IR&&detour=warp://auto?ifp=20-40#DE
+warp://auto#0
+warp://auto?ifp=5-10#IR1&&detour=warp://auto?ifp=5-10#DE1
+warp://auto?ifp=10-20#IR2&&detour=warp://auto?ifp=10-20#DE2
+warp://auto?ifp=20-40#IR3&&detour=warp://auto?ifp=20-40#DE3
+warp://auto?ifp=10-20&ifps=40-100&ifpd=10-20#1
+warp://auto?ifp=10-20&ifps=40-100&ifpd=30-200#2
+warp://auto?ifp=10-20&ifps=40-100&ifpd=300-500#3
+warp://auto?ifp=5-10&ifps=40-100&ifpd=10-20#4
+warp://auto?ifp=5-10&ifps=40-100&ifpd=30-50#5
+warp://auto?ifp=5-10&ifps=40-100&ifpd=300-500#6
+warp://auto#00&&detour=warp://auto#11
