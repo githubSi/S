@@ -1,10 +1,6 @@
-warp://auto#IR0&&detour=warp://auto#DE0
-warp://auto?ifp=5-10#IR1&&detour=warp://auto#DE1
-warp://auto?ifp=10-20#IR2&&detour=warp://auto#DE2
-warp://auto?ifp=20-40#IR3&&detour=warp://auto#DE3
-warp://auto?ifp=5-10&ifps=40-100&ifpd=10-20#IR4&&detour=warp://auto#DE4
-warp://auto?ifp=5-10&ifps=40-100&ifpd=30-50#IR5&&detour=warp://auto#DE5
-warp://auto?ifp=5-10&ifps=40-100&ifpd=300-500#IR6&&detour=warp://auto#DE6
-warp://auto?ifp=10-20&ifps=40-100&ifpd=10-20#IR7&&detour=warp://auto#DE7
-warp://auto?ifp=10-20&ifps=40-100&ifpd=30-200#IR8&&detour=warp://auto#DE8
-warp://auto?ifp=10-20&ifps=40-100&ifpd=300-500#IR9&&detour=warp://auto#DE9
+warp://auto?ifp=5-10#IR1&&detour=warp://auto?ifp=5-10#DE1
+warp://auto?ifp=20-40#IR2&&detour=warp://auto?ifp=20-40#DE2
+warp://auto?ifp=10-20#IR3&&detour=warp://auto?ifp=10-20#DE3
+warp://auto?ifp=5-10#IR4&&detour=warp://auto#DE4
+warp://auto?ifp=10-20#IR5&&detour=warp://auto#DE5
+warp://auto?ifp=20-40#IR6&&detour=warp://auto#DE6
